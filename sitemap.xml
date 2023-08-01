@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://nhjiehuo.eu.org/link/index.html</loc>
+    
+    <lastmod>2023-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://nhjiehuo.eu.org/tags/index.html</loc>
+    
+    <lastmod>2023-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://nhjiehuo.eu.org/zy/index.html</loc>
+    
+    <lastmod>2023-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://nhjiehuo.eu.org/2023/07/10/%E5%B9%BF%E5%91%8A/</loc>
+    
+    <lastmod>2023-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://nhjiehuo.eu.org/2023/08/01/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%B3%A8%E5%86%8Cchatgpt%EF%BC%8C%E4%BB%85%E9%9C%8015%E5%85%83%EF%BC%8C100%%E6%88%90%E5%8A%9F/</loc>
     
     <lastmod>2023-08-01</lastmod>
     
@@ -46,33 +82,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://nhjiehuo.eu.org/link/index.html</loc>
-    
-    <lastmod>2023-08-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://nhjiehuo.eu.org/tags/index.html</loc>
-    
-    <lastmod>2023-08-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://nhjiehuo.eu.org/zy/index.html</loc>
-    
-    <lastmod>2023-08-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://nhjiehuo.eu.org/</loc>
@@ -90,6 +99,20 @@
   </url>
   
   <url>
+    <loc>http://nhjiehuo.eu.org/tags/ai/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://nhjiehuo.eu.org/tags/chatgpt/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://nhjiehuo.eu.org/tags/%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -100,6 +123,13 @@
   
   <url>
     <loc>http://nhjiehuo.eu.org/categories/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://nhjiehuo.eu.org/categories/chatgpt/</loc>
     <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
