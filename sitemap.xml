@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nhjiehuo.eu.org/link/index.html</loc>
+    
+    <lastmod>2023-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nhjiehuo.eu.org/tags/index.html</loc>
+    
+    <lastmod>2023-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nhjiehuo.eu.org/zy/index.html</loc>
+    
+    <lastmod>2023-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://nhjiehuo.eu.org/p/e459.html</loc>
     
     <lastmod>2023-08-10</lastmod>
@@ -38,6 +65,15 @@
   </url>
   
   <url>
+    <loc>https://nhjiehuo.eu.org/p/6c42.html</loc>
+    
+    <lastmod>2023-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://nhjiehuo.eu.org/about/index.html</loc>
     
     <lastmod>2023-08-10</lastmod>
@@ -48,33 +84,6 @@
   
   <url>
     <loc>https://nhjiehuo.eu.org/categories/index.html</loc>
-    
-    <lastmod>2023-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nhjiehuo.eu.org/link/index.html</loc>
-    
-    <lastmod>2023-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nhjiehuo.eu.org/tags/index.html</loc>
-    
-    <lastmod>2023-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nhjiehuo.eu.org/zy/index.html</loc>
     
     <lastmod>2023-08-10</lastmod>
     
