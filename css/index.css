@@ -4006,7 +4006,7 @@ h1.page-title + .tag-cloud-list {
   width: 100%;
   height: 100%;
   position: fixed;
-  background: #257bd7;
+  background: #b0e2ff;
   z-index: 1001;
   opacity: 1;
   -ms-filter: none;
@@ -4058,6 +4058,24 @@ h1.page-title + .tag-cloud-list {
   -o-transform: translate(18px, 24px);
   -ms-transform: translate(18px, 24px);
   transform: translate(18px, 24px);
+}
+#loading-box #loading-percentage {
+  position: absolute;
+  top: 67%;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+#loading-box #loading-percentage::before {
+  content: "「";
+  margin-right: 10px;
+}
+#loading-box #loading-percentage::after {
+  content: "」";
+  margin-left: 10px;
 }
 #loading-box.loaded .loading-bg {
   opacity: 0;
